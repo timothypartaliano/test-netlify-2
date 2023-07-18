@@ -1,0 +1,9 @@
+/* css responsive pages untuk ukuran 321 x 400 pxl */
+@media (max-width: 600px) {
+  .item {
+    width: 100%;
+  }
+  .flex-list .list {
+    width: 100%;
+  }
+}
